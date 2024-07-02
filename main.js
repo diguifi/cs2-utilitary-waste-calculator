@@ -3,7 +3,7 @@ var {parseEvents, parseEvent, parseTicks, parseHeader, parsePlayerInfo} = requir
 const filePath = "demos/[-------------NAME OF YOUR DEMO HERE------------].dem"
 
 console.log(``)
-console.log(`-- Utilitary waste analysis --`)
+console.log(`-- Utility waste analysis --`)
 console.log(`> MAP: ${parseHeader(filePath).map_name}`)
 
 const he = {nome:'High Explosive Grenade',valor:300}
