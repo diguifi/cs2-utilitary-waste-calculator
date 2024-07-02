@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@laihoe/demoparser2": "^0.26.2"
+  }
+}
