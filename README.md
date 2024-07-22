@@ -20,3 +20,7 @@ It's really simple
 
 ## I don't get it
 Basically now you know exactly how much money was spent on utility and how much of it was wasted (because the player died with certain unused amount in their inventory) on the entire match and now you can shove this on your friend's face and say he'll never receive a drop unless they learn how to spend money on utility.
+
+
+## Known issues
+- doesn't properly consider utilities picked from the ground
